@@ -1,0 +1,17 @@
+//run these commands in terminal in vs code then run your file like python3 svm.py
+python3 --version
+if python is not installed then 
+(sudo apt update
+sudo apt install python3 python3-venv python3-pip -y )
+
+cd ~/your_project_folder
+python3 -m venv venv
+source venv/bin/activate
+deactivate
+pip install -r requirements.txt
+
+//for windows setup
+python --version
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt

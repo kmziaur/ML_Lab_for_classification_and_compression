@@ -1,0 +1,6 @@
+numpy>=1.24.0 # Core Scientific Computing
+opencv-python>=4.7.0 # Computer Vision
+scikit-learn>=1.3.0 # Machine Learning
+scipy>=1.10.0 # Scientific Computing (for SVD implementation)
+matplotlib
+pillow
