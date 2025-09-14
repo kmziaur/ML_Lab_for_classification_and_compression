@@ -6,6 +6,7 @@ Each file demonstrates different concepts and implementations in machine learnin
 ---
 
 ## 📂 Project Structure
+```plaintext
 Machine-Learning-Lab/
 │── file1.py
 │── file2.py
@@ -16,12 +17,7 @@ Machine-Learning-Lab/
 │── file7.py
 │── requirements.txt
 └── README.md
-
-
-- `file1.py` → Lab task 1  
-- `file2.py` → Lab task 2  
-- `...`  
-- `file7.py` → Lab task 7  
+```
 
 *(You can rename the files with meaningful names like `linear_regression.py`, `svm_classifier.py`, etc. for clarity.)*
 
@@ -31,8 +27,8 @@ Machine-Learning-Lab/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/kmziaur/ML_Lab_for_classification_and_compression.git
+cd ML_Lab_for_classification_and_compression
 ```
 
 ### 2.Create a Virtual Environment
